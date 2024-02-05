@@ -1,0 +1,6 @@
+Why are you interested in taking CMSC320?
+
+I am interested in taking CMSC320 because my interests within computer science
+(machine learning and computational finance) are built on top of data. Taking 
+CMSC320 would allow me to develop the necessary skills to effectively collect 
+data and build models for these interests of mine.
